@@ -1,8 +1,5 @@
-🌆 Urban Planning and Design:
-
-A Data-Driven Approach
+🌆 Urban Planning and Design: A Data-Driven Approach
 This project explores how data analysis, simulation, and 3D visualization can be combined to improve urban planning. By analyzing key metrics like traffic flow, land use, and population density, the goal is to design smarter, more efficient, and sustainable cities.
-
 🔍 Key Highlights
 📌 Real-time traffic simulation using SUMO (Simulation of Urban Mobility)
 
@@ -30,20 +27,15 @@ SUMO – Urban mobility simulation to test and improve traffic systems
 Jupyter Notebook – Interactive environment for developing and showcasing analysis
 
 ⚙️ Workflow Overview
-Data Collection
-Gather urban datasets (traffic, land use, population) from open data sources.
+Data Collection Gather urban datasets (traffic, land use, population) from open data sources.
 
-Data Processing & Analysis
-Use Python libraries to clean, process, and visualize trends.
+Data Processing & Analysis Use Python libraries to clean, process, and visualize trends.
 
-Mobility Simulation
-Implement SUMO to simulate traffic conditions and study bottlenecks.
+Mobility Simulation Implement SUMO to simulate traffic conditions and study bottlenecks.
 
-3D Urban Visualization
-Build a simple 3D model to visually represent the urban design proposal.
+3D Urban Visualization Build a simple 3D model to visually represent the urban design proposal.
 
-Optimization & Presentation
-Analyze outcomes, refine the plan, and present results via visuals and reports.
+Optimization & Presentation Analyze outcomes, refine the plan, and present results via visuals and reports.
 
 💡 Outcome
 A scalable and visually interactive framework that helps urban designers and city planners make smarter, data-informed decisions to build better cities.
